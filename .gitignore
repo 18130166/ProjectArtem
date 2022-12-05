@@ -1,0 +1,4 @@
+*.log
+hello/
+build/
+my_text.txt
